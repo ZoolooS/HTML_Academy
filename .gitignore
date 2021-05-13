@@ -2,7 +2,9 @@ __pycache__
 .vscode
 .git
 .zip
+_source
 _source/
+_output
 _output/
 
 # Environments
@@ -19,3 +21,6 @@ venv.bak/
 # local_settings.py
 # db.sqlite3
 # db.sqlite3-journal
+
+*.tmp
+*.tmp/
