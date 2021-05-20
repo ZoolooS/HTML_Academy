@@ -8,6 +8,7 @@ let getZippedArrays = function (keys, values) {
   return dict;
 };
 
+
 /*
 
 Создайте функцию getZippedArrays.
